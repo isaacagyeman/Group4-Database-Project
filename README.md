@@ -16,12 +16,14 @@ This is a school IT project I did for my group(Group_4).
 
 Users should be able to:
 
-- Add the necessary data to the database
+- Add the necessary data to the database in every tab
 
 
 ### Screenshot
 
 ![](/GroupDatabase%20project%20screenshot.PNG)
+
+![](/GroupDatabase%20project%20screenshot%202.PNG)
 
 
 ### Built with
