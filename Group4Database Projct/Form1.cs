@@ -145,7 +145,7 @@ namespace Group4Database_Projct
 				
 				mysconn.ConnectionString = "server = localhost ; " +
 					"username = root ; " +
-					"password = 210103la ; " +
+					"password = test123 ; " +
 					"database = group4db;";
 				
 				mysconn.Open();
