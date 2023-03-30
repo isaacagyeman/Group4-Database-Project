@@ -1,4 +1,4 @@
-# A Student hostel management system desktop app
+# A Student hostel management system desktop app written in Csharp
 
 
 ## Table of contents
