@@ -1,0 +1,9 @@
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\obj\Debug\Group4Database Projct.exe
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\obj\Debug\Group4Database Projct.csprojResolveAssemblyReference.cache
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\obj\Debug\Group4Database_Projct.Form1.resources
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\obj\Debug\Group4Database_Projct.SplashScreen.resources
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\obj\Debug\Group4Database Projct.csproj.GenerateResource.Cache
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\obj\Debug\Group4Database Projct.pdb
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\bin\Debug\Group4Database Projct.exe.config
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\bin\Debug\Group4Database Projct.exe
+C:\Users\GENIUS\Documents\SharpDevelop Projects\Group4Database Projct\bin\Debug\Group4Database Projct.pdb
